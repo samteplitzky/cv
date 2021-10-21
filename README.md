@@ -6,31 +6,30 @@ _Open Science Librarian & Community Builder_ <br>
 
 ## Library Experience
 
-
 ### UC Berkeley Libraries, UC Berkeley, Berkeley, CA, 7/2011-present
 
-**Open Science Librarian** _(9/2019-present)_ <br>
-- Promote open science tools and principles; provide related outreach to researchers and students; piloted open workflows workshop series
-- Launched ReproducibiliTea Journal Club at Berkeley & Bay Area Open Science Group
-- Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
-- Created VOLT, [Virtual Online Library Tutorials](http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
-- Library liaison to the Department of Earth and Planetary Sciences, and the Lawrence Berkeley National Laboratory (ongoing)
+- **Open Science Librarian** _(9/2019-present)_ <br>
+  - Promote open science tools and principles; provide related outreach to researchers and students; piloted open workflows workshop series
+  - Launched ReproducibiliTea Journal Club at Berkeley & Bay Area Open Science Group
+  - Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
+  - Created VOLT, [Virtual Online Library Tutorials](http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
+  - Library liaison to the Department of Earth and Planetary Sciences, and the Lawrence Berkeley National Laboratory (ongoing)
 
-**Earth and Physical Sciences Librarian** _(3/2014-9/2019)_ <br>
-- Performed collection development and collection management for Earth and Planetary Science, Physics, and Astronomy departments. Performed collection development for Chemistry (2015-16, 2018-19).
-- Provided reference and instructional services in the form of orientations, consultations, classes, online subject guides.
-- Cultivated community through Maps and More, map-related pop-up exhibit series at the Earth Sciences & Map Library.
-- Served on implementation team for UC Open Access Policy (2015-16)
+- **Earth and Physical Sciences Librarian** _(3/2014-9/2019)_ <br>
+  - Performed collection development and collection management for Earth and Planetary Science, Physics, and Astronomy departments. Performed collection development for Chemistry (2015-16, 2018-19).
+  - Provided reference and instructional services in the form of orientations, consultations, classes, online subject guides.
+  - Cultivated community through Maps and More, map-related pop-up exhibit series at the Earth Sciences & Map Library.
+  - Served on implementation team for UC Open Access Policy (2015-16)
 
-**Reference Assistant** Biosciences and Natural Resources Library _(7/2011-2/2014)_ <br>
+- **Reference Assistant** Biosciences and Natural Resources Library _(7/2011-2/2014)_ <br>
 
 ### Stanford University Library, Branner Earth Sciences Library and Map Collections, Stanford, CA
 
-**Earth Sciences Librarian and Bibliographer** _(2/2005-7/2008)_<br>
+- **Earth Sciences Librarian and Bibliographer** _(2/2005-7/2008)_<br>
 
 ### Mill Valley Public Library, Mill Valley, CA
 
-**Reference Librarian** _(1/2003-1/2005)_ <br>
+- **Reference Librarian** _(1/2003-1/2005)_ <br>
 
 ## Publications
 
@@ -49,7 +48,6 @@ _Open Science Librarian & Community Builder_ <br>
 - Contributor to Resources for College Libraries in the "Geology" section; selected titles for climatology. 2007.<br>
 - Teplitzky, Samantha, “Sonoma County and the Living Wage: A Study of the Impact of a Living Wage Ordinance on the Cities of Santa Rosa and Petaluma,” UC Berkeley Center for Labor Research & Education and UC Institute for Labor and Employment, August 2002.<br>
 - Cox, R., Atkinson, R. K., Bear, B. R., Brandriss, M. E., Chokel, C. B., Comstock, J. C., ... & Willis, M. P. (2000). Changes in a fringing reef complex over a thirty-year period: coral loss and lagoon infilling at Mary Creek, St. John, US Virgin Islands. Bulletin of marine science, 66(1), 269-277.<br>
-
 
 ## Presentations
 
@@ -104,14 +102,8 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 **Bachelor of Arts** in Geology and Art History<br>
 Williams College - Williamstown, MA, USA _(1998)_<br>
 
-**Master of Library and Information Science**<br>
-San Jose State University - San Jose, CA, USA _(2003)_<br>
-
 **Master of Arts in Geography**<br>
 University of California, Berkeley - Berkeley, CA, USA _(2002)_<br>
 
-
-
-
-
-
+**Master of Library and Information Science**<br>
+San Jose State University - San Jose, CA, USA _(2003)_<br>
