@@ -28,9 +28,9 @@ _Open Science Librarian & Community Builder_ <br>
 
 **Earth Sciences Librarian and Bibliographer** _(2/2005-7/2008)_<br>
 
+### Mill Valley Public Library, Mill Valley, CA
 
-**Reference Librarian** at Mill Valley Public Library, Mill Valley, CA, _(1/2003-1/2005)_ <br>
-
+**Reference Librarian** _(1/2003-1/2005)_ <br>
 
 ## Publications
 
