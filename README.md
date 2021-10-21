@@ -2,7 +2,7 @@
 
 _Open Science Librarian & Community Builder_ <br>
 
-[Email](mailto:samteplitzky@gmail.com) / [Website](https://samteplitzky.github.io) / ORCID (https://orcid.org/0000-0001-7071-332X) / [Twitter](https://twitter.com/samteplitzky/)
+[Email](mailto:samteplitzky@gmail.com) / [Website](https://samteplitzky.github.io) / [ORCID](https://orcid.org/0000-0001-7071-332X) / [Twitter](https://twitter.com/samteplitzky/)
 
 ## Library Experience
 
@@ -10,21 +10,17 @@ _Open Science Librarian & Community Builder_ <br>
 ### UC Berkeley Libraries, UC Berkeley, Berkeley, CA, 7/2011-present
 
 **Open Science Librarian** _(9/2019-present)_ <br>
-<ul>
 - Promote open science tools and principles; provide related outreach to researchers and students; piloted open workflows workshop series
 - Launched ReproducibiliTea Journal Club at Berkeley & Bay Area Open Science Group
 - Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
-- Created VOLT, Virtual Online Library Tutorials (http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
+- Created VOLT, [Virtual Online Library Tutorials](http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
 - Library liaison to the Department of Earth and Planetary Sciences, and the Lawrence Berkeley National Laboratory (ongoing)
-</ul>
 
 **Earth and Physical Sciences Librarian** _(3/2014-9/2019)_ <br>
-<ul>
 - Performed collection development and collection management for Earth and Planetary Science, Physics, and Astronomy departments. Performed collection development for Chemistry (2015-16, 2018-19).
 - Provided reference and instructional services in the form of orientations, consultations, classes, online subject guides.
 - Cultivated community through Maps and More, map-related pop-up exhibit series at the Earth Sciences & Map Library.
 - Served on implementation team for UC Open Access Policy (2015-16)
-</ul>
 
 **Reference Assistant** Biosciences and Natural Resources Library _(7/2011-2/2014)_ <br>
 
@@ -82,6 +78,8 @@ Poster: https://escholarship.org/uc/item/7cb6641c<br>
 ### Workshops
 - Created & coordinated 11 instructors for FSCI (Force 11 Summer Institute) 2021 Summer Course, “Case studies in the Earth Sciences: Current approaches to publishing, data and computation”  (Summer 2021)
 - Geoscience Librarianship 101 - through Geoscience Information Society (GSIS)
+  - Introduction to Open and Reproducibile Practices in Earth Science _(10/19/2021)_
+  - Scholarly Communications: Trends in the Earth Sciences; Opportunities for Librarians _(2017, 2018)_
 
 ## Grants & Awards
 
