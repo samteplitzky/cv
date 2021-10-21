@@ -2,7 +2,7 @@
 
 _Open Science Librarian & Community Builder_ <br>
 
-[Email](mailto:samteplitzky@gmail.com) / [Website](https://samteplitzky.github.io/cv) / [ORCID](https://orcid.org/0000-0001-7071-332X) / [Twitter](https://twitter.com/samteplitzky/)
+[Email](mailto:samteplitzky@gmail.com) / [Scholar](https://scholar.google.com/citations?user=ICLk2GgAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0001-7071-332X) / [Twitter](https://twitter.com/samteplitzky/)
 
 ## Library Experience
 
