@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: [Sam Teplitzky's CV]
+# User settings
+username: Sam Teplitzky
+user_description: I'm a librarian in California, interested in Open Science, Data, Reproducibility & building community.
+user_title: Open Science Librarian
+twitter_username: @samteplitzky
+github_username:  samteplitzky
