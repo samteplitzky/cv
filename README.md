@@ -1,8 +1,30 @@
 # Samantha Teplitzky
 
 _Open Science Librarian & Community Builder_ <br>
+Interests: Open Science, Data, Reproducibility, Transparency in Research Workflows, Inclusive Community Building related to these topics
 
 [Email](mailto:samteplitzky@gmail.com) / [Scholar](https://scholar.google.com/citations?user=ICLk2GgAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0001-7071-332X) / [Twitter](https://twitter.com/samteplitzky/)
+
+## Recent Projects
+
+### Geoscience Open Educational Resources (OER) Study _(2020-2021)_
+Summary: This study examines the creation and adoption of OER in the Geosciences with a goal of providing guidance for institutions, libraries and librarians who support and fund OER initiatives. An environmental scan, employed to identify and characterize available college-level OER in this discipline, provided a baseline for the study. Analysis of the scan along with a review of OER, textbook and field guide standards informs a new set of proposed guidelines for Geoscience OER, and offers a call for community feedback.
+_Links_
+- Manuscript (in EarthArXiV) - https://doi.org/10.31223/X5J90G
+- Guidelines Table - https://zenodo.org/record/5542306
+- Environmental Scan/Data - https://zenodo.org/record/5542323
+
+### Earth Science Citation Replication Project _(2019-2020)_
+Summary: This project had three objectives - 
+- Replicate methods from P. White's 2019 study of Earth Science researcher citation practices.
+- Calculate programmatically whether researchers in Earth Science rely on a smaller subset of literature than estimated by the 80/20 rule (note: The 80/20 rule states that 80% of publications cite just 20% of the literature).
+- Determine whether these reproducible citation analysis methods can be used to analyze open access uptake.
+We also set out to "walk the walk" and employ the same research workflows as _librarians_ that students, faculty and researchers we support confront in their work.
+_Links_
+- Preregistration - https://osf.io/u49zv
+- Article - https://doi.org/10.7191/jeslib.2021.1194
+- Data & Code - https://github.com/samteplitzky/Earth-Science-Citation-Replication-Project
+- Archived Repository - https://zenodo.org/record/4750155
 
 ## Library Experience
 
