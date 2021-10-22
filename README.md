@@ -11,9 +11,9 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 _Summary_<br>
 This study examines the creation and adoption of OER in the Geosciences with a goal of providing guidance for institutions, libraries and librarians who support and fund OER initiatives. An environmental scan, employed to identify and characterize available college-level OER in this discipline, provided a baseline for the study. Analysis of the scan along with a review of OER, textbook and field guide standards informs a new set of proposed guidelines for Geoscience OER, and offers a call for community feedback.<br/><br/>
 _Links_<br>
-- Manuscript (in EarthArXiV) - https://doi.org/10.31223/X5J90G
-- Guidelines Table - https://zenodo.org/record/5542306
-- Environmental Scan/Data - https://zenodo.org/record/5542323
+- Manuscript (in EarthArXiV) - [https://doi.org/10.31223/X5J90G](https://doi.org/10.31223/X5J90G)
+- Guidelines Table - [https://zenodo.org/record/5542306](https://zenodo.org/record/5542306)
+- Environmental Scan/Data - [https://zenodo.org/record/5542323](https://zenodo.org/record/5542323)
 
 ### Earth Science Citation Replication Project _(2019-2020)_
 _Summary_<br> This project had three objectives: <br>
@@ -23,10 +23,10 @@ _Summary_<br> This project had three objectives: <br>
 
 We also set out to "walk the walk" and employ the same research workflows as _librarians_ that students, faculty and researchers we support confront in their work.<br/><br/>
 _Links_<br>
-- Preregistration - https://osf.io/u49zv
-- Article - https://doi.org/10.7191/jeslib.2021.1194
-- Data & Code - https://github.com/samteplitzky/Earth-Science-Citation-Replication-Project
-- Archived Repository - https://zenodo.org/record/4750155
+- Preregistration - [https://osf.io/u49zv](https://osf.io/u49zv)
+- Article - [https://doi.org/10.7191/jeslib.2021.1194](https://doi.org/10.7191/jeslib.2021.1194)
+- Data & Code - [https://github.com/samteplitzky/Earth-Science-Citation-Replication-Project](https://github.com/samteplitzky/Earth-Science-Citation-Replication-Project)
+- Archived Repository - [https://zenodo.org/record/4750155](https://zenodo.org/record/4750155)
 
 ## Library Experience
 
@@ -46,6 +46,12 @@ _Links_<br>
   - Served on implementation team for UC Open Access Policy (2015-16)
 
 - **Reference Assistant** Biosciences and Natural Resources Library _(7/2011-2/2014)_ <br>
+
+### Agricultural Archives Project, LSCE, Gif-Sur-Yvette, France
+- **Project Researcher** _(9/2009-3/2010)_<br>
+  - Identified historical agricultural records in France.
+  - Performed research at Bibliotheque Nationale de France (BNF) and other agencies.
+  - Created a database of fertilizer use for corn, wheat and other crops for the 20th century.
 
 ### Stanford University Library, Branner Earth Sciences Library and Map Collections, Stanford, CA
 
