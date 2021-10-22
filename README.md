@@ -82,6 +82,7 @@ _Links_<br>
 
 ## Presentations
 
+- Teplitzky, S., Tolliver, R., Tschirhart, L. (2021, October 22) Open Educational Resources in the Geosciences: Guidelines and Criteria. GSIS Annual Meeting (Virtual).<br> 
 - Teplitzky, S., Vollmer, T., Lair, S., Narock, T. & Gonder, J. (2021, April). Open access investment at the local level: Sharing diverse tactics to improve access and affordability. Presented at ACRL 2021 (virtual).<br>
 - Teplitzky, S. (2021, January 13). Virtual Online Library Tutorials (vOLT), an outreach project with Jupyterbook. Science Librarianship in the time of COVID. Virtual conference presentation.<br>
 - Teplitzky, S. (2020, October 30). GeoScience Information Society Annual Meeting, Professional Issues Roundtable.<br>
