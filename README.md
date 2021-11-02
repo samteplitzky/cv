@@ -63,9 +63,9 @@ _Links_<br>
 
 ## Publications
 
-- Teplitzky, S., Hardy, S., Johnson, K., Tolliver, R., Tschirhart, L., & Vardakosta, I. (2021). A Review of Open Educational Resources in the Geosciences: Guidelines and Criteria. [https://doi.org/10.31223/X5J90G](https://doi.org/10.31223/X5J90G)<br>
 - In Press. Sackmann, A., Foster, E., Teplitzky, S., Neeser, A. & Gluser, A. (2021) Expanding Research Data Management to UC Berkeley researchers: a targeted approach to outreach and instruction in Teaching Research Data Management (working title), Julia Bauder, Editor<br>
-- In Press. Teplitzky, S. et al. (2021). Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context, in ACRL Scholarly Communications Cookbook.<br>
+- Teplitzky, S., Hardy, S., Johnson, K., Tolliver, R., Tschirhart, L., & Vardakosta, I. (2021). A Review of Open Educational Resources in the Geosciences: Guidelines and Criteria. [https://doi.org/10.31223/X5J90G](https://doi.org/10.31223/X5J90G)<br>
+- Teplitzky, S., Newcome, E., Powell, S., & Sackmann, A. (2021). Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context, in B. Buljung & E. Bongiovanni (Eds.), Scholarly Communications Cookbook (p 303-306). Association of College & Research Libraries. [https://escholarship.org/uc/item/7kj084vz](https://escholarship.org/uc/item/7kj084vz)<br> 
 - Teplitzky, S. et al. (2021). Introducing Reproducibility to Citation Analysis: a Case Study in the Earth Sciences. Journal of eScience Librarianship, 10(2). [http://doi.org/10.7191/jeslib.2021.1194](http://doi.org/10.7191/jeslib.2021.1194)<br>
 - Vasilevsky, N. A., Hosseini, M., Teplitzky, S., Ilik, V., Mohammadi, E., Schneider, J., ... & Holmes, K. L. (2021). Is authorship sufficient for today’s collaborative research? A call for contributor roles. Accountability in Research, 28(1), 23-43. [https://doi.org/10.1080/08989621.2020.1779591](https://doi.org/10.1080/08989621.2020.1779591)<br>
 - Woods, N., Vandegrift, M., & Teplitzky, S. (2021, February 16). Keeping Up With... Open Science. Association of College & Research Libraries (ACRL). [https://www.ala.org/acrl/publications/keeping_up_with/open_science](https://www.ala.org/acrl/publications/keeping_up_with/open_science)<br>
