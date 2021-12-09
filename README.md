@@ -82,11 +82,12 @@ _Links_<br>
 
 ## Presentations
 
-- Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual
+- Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
+- Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual.<br>
 - Newcome, E., Dyess, B., Muhr, H., Powell, S., Teplitzky, S. (2021, October 27) Mapping the Bay: Engaging students and community during the pandemic and beyond. UC Libraries Forum (Virtual).<br>
 - Teplitzky, S., Tolliver, R., Tschirhart, L. (2021, October 22) Open Educational Resources in the Geosciences: Guidelines and Criteria. GSIS Annual Meeting (Virtual).<br> 
-- Teplitzky, S., Vollmer, T., Lair, S., Narock, T. & Gonder, J. (2021, April). Open access investment at the local level: Sharing diverse tactics to improve access and affordability. Presented at ACRL 2021 (virtual).<br>
-- Teplitzky, S. (2021, January 13). Virtual Online Library Tutorials (vOLT), an outreach project with Jupyterbook. Science Librarianship in the time of COVID. Virtual conference presentation.<br>
+- Teplitzky, S., Vollmer, T., Lair, S., Narock, T. & Gonder, J. (2021, April). Open access investment at the local level: Sharing diverse tactics to improve access and affordability. Presented at ACRL 2021 (Virtual).<br>
+- Teplitzky, S. (2021, January 13). Virtual Online Library Tutorials (vOLT), an outreach project with Jupyterbook. Presented at Science Librarianship in the time of COVID (Virtual).<br>
 - Teplitzky, S. (2020, October 30). GeoScience Information Society Annual Meeting, Professional Issues Roundtable.<br>
 - Teplitzky, S., Powell, S., & Sackmann, A. (2019, December 13). Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context. Poster presented at AGU 2019 Fall Meeting. San Francisco, CA.<br>
 - Teplitzky, Samantha. (2019, November 1). Introducing Graduate Students to Open Research Workflows. Lightning talk presented at Berkeley-Stanford Science Librarians’ Meeting, Berkeley, CA.<br>
