@@ -7,6 +7,11 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 
 ## Recent Projects
 
+### Seismica Journal _(2021- )_
+_Summary_<br>
+Seismica is a new Diamond Open Access Journal launching in Spring 2022. [http://seismica.org/](http://seismica.org/)
+- Founding Open Science Editor, working to implement open science practices and workflows as we build the journal and grow the Seismica community.
+
 ### Geoscience Open Educational Resources (OER) Study _(2020-2021)_
 _Summary_<br>
 This study examines the creation and adoption of OER in the Geosciences with a goal of providing guidance for institutions, libraries and librarians who support and fund OER initiatives. An environmental scan, employed to identify and characterize available college-level OER in this discipline, provided a baseline for the study. Analysis of the scan along with a review of OER, textbook and field guide standards informs a new set of proposed guidelines for Geoscience OER, and offers a call for community feedback.<br/><br/>
