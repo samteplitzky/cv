@@ -66,6 +66,9 @@ _Links_<br>
 
 - **Reference Librarian** _(1/2003-1/2005)_ <br>
 
+### Prints and Photographs Division, Library of Congress, Washington, DC
+- **Junior Fellow** _(Summer 2003)_ <br>
+
 ## Publications
 
 - Sackmann, A., Foster, E., Teplitzky, S., Neeser, A. & Gluser, A. (2021) Expanding Research Data Management to UC Berkeley researchers: a targeted approach to outreach and instruction, in J. Bauder, (Ed.), Teaching Data Management (p 177-192). ALA Editions. [https://doi.org/10.25350/B5X592](https://doi.org/10.25350/B5X592)<br>
