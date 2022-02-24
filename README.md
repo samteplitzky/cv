@@ -9,7 +9,7 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 
 ### Seismica Journal _(2021- )_
 _Summary_<br>
-Seismica is a new Diamond Open Access Journal launching in Spring 2022. [http://seismica.org/](http://seismica.org/)
+[Seismica](http://seismica.org/) is a new Diamond Open Access Journal launching in Spring 2022.
 - Founding Open Science Editor, working to implement open science practices and workflows as we build the journal and grow the Seismica community.
 
 ### Geoscience Open Educational Resources (OER) Study _(2020-2021)_
