@@ -134,7 +134,13 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Librarians Association of the University of California (LAUC) presentation grant (2016-17): “Taking the world for a spin: teaching spatial and data visualization with a digital globe,” presented at AGU Fall Meeting, San Francisco, CA, 2016<br>
 - Association of Pacific Coast Geographers Women’s Network Travel Award, September 2000<br>
 
+## Professional Organizations & Service
+- Editor, Journal of Librarianship and Scholarly Communications, 2022-present
+- Seismica - Founding Open Science Editor of Diamond Open Access Journal, 2021-present 
+- Geoscience Information Society (GSIS), 2005-8, 2014-present
+
 ## Professional Development & Continuing Education
+- Editor, Journal of Librarianship & Scholarly Communication, 2022-
 - Scientific Community Engagement Fundamentals course (Center for Scientific Collaboration and Community Engagement), February-March 2021<br>
 - Carpentries Instructor Certification, Fall 2020<br>
 - Data Science Pedagogy and Practice Workshop, UC Berkeley Division of Data Science, June 3-5, 2019<br>
