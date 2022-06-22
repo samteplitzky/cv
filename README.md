@@ -71,7 +71,7 @@ _Links_<br>
 
 ## Publications
 
-- Dyess, B. & Teplitzky, S. (2022) _In Press_ Developing a collaborative diversity, equity, and inclusion (DEI) guide: a library-department partnership in the Earth Sciences. Journal of Map and Geography Libraries.
+- Dyess, B. & Teplitzky, S. (2022) Developing a collaborative diversity, equity, and inclusion (DEI) guide: a library-department partnership in the Earth Sciences. Journal of Map and Geography Libraries. [https://doi.org/10.1080/15420353.2022.2080790](https://doi.org/10.1080/15420353.2022.2080790)<br>
 - Pourret, O., Jackson, C., Goldstein, E., Teplitzky, S., & Hillman, J. (2022) “Modern Geoscience Publishing.” Geoscientist: The Magazine of the Geological Society of London, May 16, 2022. https://geoscientist.online/sections/viewpoint/modern-geoscience-publishing/.
 - Sackmann, A., Foster, E., Teplitzky, S., Neeser, A. & Gluser, A. (2021) Expanding Research Data Management to UC Berkeley researchers: a targeted approach to outreach and instruction, in J. Bauder, (Ed.), Teaching Data Management (p 177-192). ALA Editions. [https://doi.org/10.25350/B5X592](https://doi.org/10.25350/B5X592)<br>
 - Quigley, B. Q., Loo, J. L., Ngo, L., Powell, S., Teplitzky, S., Sackmann, A., & Rupp, K. K. (2021). Training, Support, and Connection for Student Library Employees in a Tiered Reference Service Model. Reference & User Services Quarterly, 59(3/4), 195-203. [https://doi.org/10.5860/rusq.59.3/4.7720](https://doi.org/10.5860/rusq.59.3/4.7720)<br>
