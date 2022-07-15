@@ -93,6 +93,7 @@ _Links_<br>
 
 ## Presentations
 
+- Lenhardt, W. C., Coward, C., Erdmann, C., Meyers, N. K., & Teplitzky, S. (2021, December). Climbing the FAIR Data Mountain: Librarians as Knowledge Sharing Mountaineers. In AGU Fall Meeting 2021. AGU.<br>
 - Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
 - Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual.<br>
 - Newcome, E., Dyess, B., Muhr, H., Powell, S., Teplitzky, S. (2021, October 27) Mapping the Bay: Engaging students and community during the pandemic and beyond. UC Libraries Forum (Virtual).<br>
