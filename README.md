@@ -39,7 +39,8 @@ _Links_<br>
 
 - **Open Science Librarian** _(9/2019-present)_ <br>
   - Promote open science tools and principles; provide related outreach to researchers and students; piloted open workflows workshop series
-  - Launched ReproducibiliTea Journal Club at Berkeley & Bay Area Open Science Group
+  - Launched and moderated Bay Area Open Science Group along with colleagues from UCSF and Stanford
+    - Co-created [Open Science Team Agreements](https://doi.org/10.5281/zenodo.7154101), an adaptable template for teams interested in instituting open science practices
   - Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
   - Created VOLT, [Virtual Online Library Tutorials](http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
   - Library liaison to the Department of Earth and Planetary Sciences, and the Lawrence Berkeley National Laboratory (ongoing)
