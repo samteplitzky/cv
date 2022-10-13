@@ -93,6 +93,7 @@ _Links_<br>
 
 ## Presentations
 
+- Teplitzky, Samantha. (2022, October). Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](10.1130/abs/2022AM-379123)<br>
 - Lenhardt, W. C., Coward, C., Erdmann, C., Meyers, N. K., & Teplitzky, S. (2021, December). Climbing the FAIR Data Mountain: Librarians as Knowledge Sharing Mountaineers. In AGU Fall Meeting 2021. AGU.<br>
 - Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
 - Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual.<br>
@@ -121,6 +122,7 @@ Poster: [https://escholarship.org/uc/item/7cb6641c](https://escholarship.org/uc/
 - Loo, J. L., Quigley, B. D., Ngo, L. T., Powell, S., & Teplitzky, S. (2015, July). Empowering the Frontline: A Dynamic Online Reference Manual and Training Session for Student Library Employee Reference Skills. In American Library Association Annual Conference 2015 Poster Presentation.<br>
 
 ### Workshops
+- Invited Facilitator for "Resources" section of NISO CRediT Persona Development Workshops (2022, September 29)
 - Created & coordinated 11 instructors for FSCI (Force 11 Summer Institute) 2021 Summer Course, “Case studies in the Earth Sciences: Current approaches to publishing, data and computation”  (Summer 2021)
 - Geoscience Librarianship 101 - through Geoscience Information Society (GSIS)
   - Introduction to Open and Reproducibile Practices in Earth Science _(10/19/2021)_
