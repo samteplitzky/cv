@@ -71,6 +71,7 @@ _Links_<br>
 
 ## Publications
 
+- (Forthcoming) Teplitzky, S. (2023, in press). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (TBD). ACRL
 - Dyess, B. & Teplitzky, S. (2022) Developing a collaborative diversity, equity, and inclusion (DEI) guide: a library-department partnership in the Earth Sciences. Journal of Map and Geography Libraries. [https://doi.org/10.1080/15420353.2022.2080790](https://doi.org/10.1080/15420353.2022.2080790)<br>
 - Pourret, O., Jackson, C., Goldstein, E., Teplitzky, S., & Hillman, J. (2022) “Modern Geoscience Publishing.” Geoscientist: The Magazine of the Geological Society of London, May 16, 2022. https://geoscientist.online/sections/viewpoint/modern-geoscience-publishing/.
 - Sackmann, A., Foster, E., Teplitzky, S., Neeser, A. & Gluser, A. (2021) Expanding Research Data Management to UC Berkeley researchers: a targeted approach to outreach and instruction, in J. Bauder, (Ed.), Teaching Data Management (p 177-192). ALA Editions. [https://doi.org/10.25350/B5X592](https://doi.org/10.25350/B5X592)<br>
@@ -93,7 +94,7 @@ _Links_<br>
 
 ## Presentations
 
-- Teplitzky, Samantha. (2022, October). Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](10.1130/abs/2022AM-379123)<br>
+- Teplitzky, Samantha. (2022, October). Seismica: Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](10.1130/abs/2022AM-379123)<br>
 - Lenhardt, W. C., Coward, C., Erdmann, C., Meyers, N. K., & Teplitzky, S. (2021, December). Climbing the FAIR Data Mountain: Librarians as Knowledge Sharing Mountaineers. In AGU Fall Meeting 2021. AGU.<br>
 - Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
 - Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual.<br>
