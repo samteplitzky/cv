@@ -73,11 +73,11 @@ _Links_<br>
 ## Publications
 
 ### Forthcoming
-- Rowe, C., Teplitzky, S., Funning, G., Hicks, S., Convers, J., van den Ende, M., Ragon, T., Mark, H., Agius, M., Lange, J., Rychert, C., & Lecocq, T. (2022, in press). The launch of Seismica: A seismic shift in publishing. Seismica. TBD
 - Teplitzky, S. (2023, in press). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (TBD). ACRL
 - Bennett, A., Garside, D., Gould van Praag, C., Hostler, T., Kherroubi Garcia, I., Plomp, E., Schettino, A., Teplitzky, S., & Ye, H. (2023, in press). A manifesto for rewarding and recognising Team Infrastructure Roles. Journal of Trial and Error. TBD
 
 ### -- 2022
+- Rowe, C., Teplitzky, S., Funning, G., Hicks, S., Convers, J., van den Ende, M., Ragon, T., Mark, H., Agius, M., Lange, J., Rychert, C., & Lecocq, T. (2022, in press). The launch of Seismica: A seismic shift in publishing. Seismica. [https://doi.org/10.26443/seismica.v1i1.255](https://doi.org/10.26443/seismica.v1i1.255)<br>
 - Dyess, B. & Teplitzky, S. (2022) Developing a collaborative diversity, equity, and inclusion (DEI) guide: a library-department partnership in the Earth Sciences. Journal of Map and Geography Libraries. [https://doi.org/10.1080/15420353.2022.2080790](https://doi.org/10.1080/15420353.2022.2080790)<br>
 - Pourret, O., Jackson, C., Goldstein, E., Teplitzky, S., & Hillman, J. (2022) “Modern Geoscience Publishing.” Geoscientist: The Magazine of the Geological Society of London, May 16, 2022. https://geoscientist.online/sections/viewpoint/modern-geoscience-publishing/.
 - Sackmann, A., Foster, E., Teplitzky, S., Neeser, A. & Gluser, A. (2021) Expanding Research Data Management to UC Berkeley researchers: a targeted approach to outreach and instruction, in J. Bauder, (Ed.), Teaching Data Management (p 177-192). ALA Editions. [https://doi.org/10.25350/B5X592](https://doi.org/10.25350/B5X592)<br>
