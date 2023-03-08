@@ -130,14 +130,18 @@ Poster: [https://escholarship.org/uc/item/7cb6641c](https://escholarship.org/uc/
 - Loo, J. L., Quigley, B. D., Ngo, L. T., Powell, S., & Teplitzky, S. (2015, July). Empowering the Frontline: A Dynamic Online Reference Manual and Training Session for Student Library Employee Reference Skills. In American Library Association Annual Conference 2015 Poster Presentation.<br>
 
 ### Workshops
+- Invited participant in AGU’s Notebooks Now initiative, Computational Notebooks Stakeholder Group, Washington, DC (2022, November 3-4)
+  - Co-Chair of "Content Consumer" Working Group, 2023
 - Invited Facilitator for "Resources" section of NISO CRediT Persona Development Workshops (2022, September 29)
 - Created & coordinated 11 instructors for FSCI (Force 11 Summer Institute) 2021 Summer Course, “Case studies in the Earth Sciences: Current approaches to publishing, data and computation”  (Summer 2021)
 - Geoscience Librarianship 101 - through Geoscience Information Society (GSIS)
+  - Opportunities for outreach and engagement in Earth Sciences librarianship, Virtual _(11/2/2022)_
   - Introduction to Open and Reproducibile Practices in Earth Science _(10/19/2021)_
   - Scholarly Communications: Trends in the Earth Sciences; Opportunities for Librarians _(2017, 2018)_
 
 ## Grants & Awards
 
+- Librarians Association of the University of California (LAUC) Mini Grant (2021-2022): partial funding of open access article processing charge for article, "Developing a collaborative diversity, equity, and inclusion (DEI) guide"
 - Librarians Association of the University of California (LAUC) Presentation Grant (2020-2021): Open access investment at the local level: Sharing diverse tactics to improve access and affordability, presented at ACRL 2021 (virtual).<br>
 - Librarians Association of the University of California (LAUC) Presentation Grant (2019-2020): “Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context,” poster presented at AGU 2019 Fall Meeting. San Francisco, CA.<br>
 - Geoscience Information Society Best Paper Award 2018 for: 
@@ -149,7 +153,7 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 
 ## Professional Organizations & Service
 - Editor, Journal of Librarianship and Scholarly Communications, 2022-present
-- Seismica - Founding Open Science Editor of Diamond Open Access Journal, 2021-present 
+- Founding Open Science Executive Editor of Seismica, Diamond Open Access Journal, 2021-present 
 - Geoscience Information Society (GSIS), 2005-8, 2014-present
 
 ## Professional Development & Continuing Education
