@@ -100,6 +100,7 @@ _Links_<br>
 
 ## Presentations
 
+- Teplitzky, S and Deardorff, A. (2023, July 26). Open Science, Community Building, and Co-Creation with the Bay Area Open Science Group. Keynote presentation at STEM Librarians Collaborative Meeting (Virtual) <br> 
 - Teplitzky, Samantha. (2022, October). Seismica: Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](10.1130/abs/2022AM-379123)<br>
 - Lenhardt, W. C., Coward, C., Erdmann, C., Meyers, N. K., & Teplitzky, S. (2021, December). Climbing the FAIR Data Mountain: Librarians as Knowledge Sharing Mountaineers. In AGU Fall Meeting 2021. AGU.<br>
 - Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
