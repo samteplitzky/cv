@@ -76,6 +76,7 @@ _Links_<br>
 - Teplitzky, S. (2023, in press). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (TBD). ACRL
 
 ### -- 2023
+- Mark, H., Ragon, T., Funning, G., Hicks, S., Rowe, C., Teplitzky, Samantha, Convers, J., Karasozen, E., Corona-Fernandez, R. D., & Fakereng, A. (2023). Editorial workflow of a community-led, all-volunteer scientific journal: Lessons from the launch of Seismica. Seismica. [https://doi.org/10.26443/seismica.v2i2.1091](https://doi.org/10.26443/seismica.v2i2.1091)<br>
 - Bennett, A., Garside, D., Gould van Praag, C., Hostler, T., Kherroubi Garcia, I., Plomp, E., Schettino, A., Teplitzky, S., & Ye, H. (2023). A manifesto for rewarding and recognising Team Infrastructure Roles. Journal of Trial and Error. [https://doi.org/10.36850/mr8](https://doi.org/10.36850/mr8) <br>
 - Rowe, C., Teplitzky, S., Funning, G., Hicks, S., Convers, J., van den Ende, M., Ragon, T., Mark, H., Agius, M., Lange, J., Rychert, C., & Lecocq, T. (2022). The launch of Seismica: A seismic shift in publishing. Seismica. [https://doi.org/10.26443/seismica.v1i1.255](https://doi.org/10.26443/seismica.v1i1.255)<br>
 - Dyess, B. & Teplitzky, S. (2022) Developing a collaborative diversity, equity, and inclusion (DEI) guide: a library-department partnership in the Earth Sciences. Journal of Map and Geography Libraries. [https://doi.org/10.1080/15420353.2022.2080790](https://doi.org/10.1080/15420353.2022.2080790)<br>
