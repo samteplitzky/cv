@@ -72,9 +72,6 @@ _Links_<br>
 
 ## Publications
 
-### Forthcoming
-
-
 ### -- 2023
 - Teplitzky, S. (2023). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (p. 528). ACRL. [https://bit.ly/SCLAOK](https://bit.ly/SCLAOK)<br>
 - Mark, H., Ragon, T., Funning, G., Hicks, S., Rowe, C., Teplitzky, Samantha, Convers, J., Karasozen, E., Corona-Fernandez, R. D., & Fakereng, A. (2023). Editorial workflow of a community-led, all-volunteer scientific journal: Lessons from the launch of Seismica. Seismica. [https://doi.org/10.26443/seismica.v2i2.1091](https://doi.org/10.26443/seismica.v2i2.1091)<br>
@@ -103,6 +100,7 @@ _Links_<br>
 ## Presentations
 
 - Teplitzky, Samantha, Convers, J., Funning, G., Hicks, S., Karasozen, E., & Rowe, C. (2023, December 11). Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal. AGU Fall Meeting 2023, San Francisco, CA<br>
+- Teplitzky, Samantha. (2023, December 10). Publishing open in the earth sciences: History, norms, new directions. Shaping the future with Researcher-run journals, San Francisco, CA.<br>
 - Teplitzky, S. (2023, September 19). Seismica: Open science and community building in a new diamond open access journal. Presented at Open Access Scholarly Publishing Association 2023 Conference (Virtual). [https://escholarship.org/uc/item/6cc6f8bx](https://escholarship.org/uc/item/6cc6f8bx)<br>
 - Teplitzky, S and Deardorff, A. (2023, July 26). Open Science, Community Building, and Co-Creation with the Bay Area Open Science Group. Keynote presentation at STEM Librarians Collaborative Meeting (Virtual) <br> 
 - Teplitzky, Samantha. (2022, October). Seismica: Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](10.1130/abs/2022AM-379123)<br>
