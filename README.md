@@ -133,6 +133,7 @@ Poster: [https://escholarship.org/uc/item/7cb6641c](https://escholarship.org/uc/
 - Loo, J. L., Quigley, B. D., Ngo, L. T., Powell, S., & Teplitzky, S. (2015, July). Empowering the Frontline: A Dynamic Online Reference Manual and Training Session for Student Library Employee Reference Skills. In American Library Association Annual Conference 2015 Poster Presentation.<br>
 
 ### Workshops
+- Organizer of "Shaping the future with Researcher-run journals," a workshop on diamond open access convened by Seismica (2023, December 10)
 - Invited participant in AGU’s Notebooks Now initiative, Computational Notebooks Stakeholder Group, Washington, DC (2022, November 3-4)
   - Co-Chair of "Content Consumer" Working Group, 2023
 - Invited Facilitator for "Resources" section of NISO CRediT Persona Development Workshops (2022, September 29)
