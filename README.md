@@ -145,6 +145,7 @@ Poster: [https://escholarship.org/uc/item/7cb6641c](https://escholarship.org/uc/
 
 ## Grants & Awards
 
+- Librarians Association of the University of California (LAUC) Presentation Grant (2023-2024): "Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal," presented at AGU Fall Meeting, San Francisco, CA, 2023<br>
 - Teplitzky, S., Wilairat, S. and Deardorff, A. (2023). "Research Community Outreach with Open Science Team Agreements." Grant awarded to develop Open Science Lessons for Librarians through Institute of Museum and Library Services and UCLA Library Data Science Center<br>
 - Librarians Association of the University of California (LAUC) Mini Grant (2021-2022): partial funding of open access article processing charge for article, "Developing a collaborative diversity, equity, and inclusion (DEI) guide"
 - Librarians Association of the University of California (LAUC) Presentation Grant (2020-2021): Open access investment at the local level: Sharing diverse tactics to improve access and affordability, presented at ACRL 2021 (virtual).<br>
