@@ -10,7 +10,7 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 ### Seismica Journal _(2021- )_
 _Summary_<br>
 [Seismica](http://seismica.org/) is a new Diamond Open Access Journal launching in Spring 2022.
-- Founding Open Science Editor, working to implement open science practices and workflows as we build the journal and grow the Seismica community.
+- Founding Open Science Editor; responsible for promoting and adapting open science, data access and inclusive workflows. 
 
 ### Geoscience Open Educational Resources (OER) Study _(2020-2021)_
 _Summary_<br>
@@ -43,7 +43,7 @@ _Links_<br>
     - Co-created [Open Science Team Agreements](https://doi.org/10.5281/zenodo.7154101), an adaptable template for teams interested in instituting open science practices
   - Open access investments working group member (Spring 2020): Established criteria, best practices, and processes to advance open access investment decision-making to guide Library scholarly resources investments in sustainable open access publishing.
   - Created VOLT, [Virtual Online Library Tutorials](http://ucblib.link/volt) to promote open research workflows available to students during COVID-19 closures.
-  - Library liaison to the Department of Earth and Planetary Sciences, and the Lawrence Berkeley National Laboratory (ongoing)
+  - Library liaison to the Earth and Planetary Sciences and Astronomy (2023-) Departments, and the Lawrence Berkeley National Laboratory (ongoing)
 
 - **Earth and Physical Sciences Librarian** _(3/2014-9/2019)_ <br>
   - Performed collection development and collection management for Earth and Planetary Science, Physics, and Astronomy departments. Performed collection development for Chemistry (2015-16, 2018-19).
@@ -99,6 +99,7 @@ _Links_<br>
 
 ## Presentations
 
+- Teplitzky, Samantha. (2024, March 22). Research community outreach with the open science team agreement. Year of Open Science Culminating Conference. Virtual. [http://osf.io/3ycgf](http://osf.io/3ycgf)<br>
 - Teplitzky, Samantha, Convers, J., Funning, G., Hicks, S., Karasozen, E., & Rowe, C. (2023, December 11). Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal. AGU Fall Meeting 2023, San Francisco, CA. [https://doi.org/10.5281/zenodo.10383740](https://doi.org/10.5281/zenodo.10383740)<br>
 - Teplitzky, Samantha. (2023, December 10). Publishing open in the earth sciences: History, norms, new directions. Shaping the future with Researcher-run journals, San Francisco, CA.<br>
 - Teplitzky, S. (2023, September 19). Seismica: Open science and community building in a new diamond open access journal. Presented at Open Access Scholarly Publishing Association 2023 Conference (Virtual). [https://escholarship.org/uc/item/6cc6f8bx](https://escholarship.org/uc/item/6cc6f8bx)<br>
