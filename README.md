@@ -159,6 +159,8 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Association of Pacific Coast Geographers Women’s Network Travel Award, September 2000<br>
 
 ## Professional Organizations & Service
+- US Representative to SCOAP3 Governing Council, 2024-2026
+- EarthArXiV Advisory Council, 2023-present
 - Editor, Journal of Librarianship and Scholarly Communications, 2022-present
 - Founding Open Science Executive Editor of Seismica, Diamond Open Access Journal, 2021-present 
 - Geoscience Information Society (GSIS), 2005-8, 2014-present
