@@ -7,6 +7,13 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 
 ## Recent Projects
 
+### Open Science Team Agreements _(2022- )_
+_Summary_<br>
+The Open Science Team Agreement template grew out of collaborative work from the Bay Area Open Science Group. The template gives researchers and other stakeholders a practical tool to understand and advocate for open science practices at a broader scale within their laboratory, department, or community.<br/><br/>
+_Links_<br>
+- Team Agreement - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7154100.svg)](https://doi.org/10.5281/zenodo.7154100) + [Google Doc](https://docs.google.com/document/d/17QTxrYwb1MHbnnOaNjAu1ak7cFV6TcJByIHl9nlm-fA/copy) + [Overleaf](https://www.overleaf.com/project/6257102a743b8a7028f898ef) versions
+- Research Community Outreach with the Open Science Team Agreement - associated Carpentries lesson - [https://ucla-imls-open-sci.info/TeamAgreements/](https://ucla-imls-open-sci.info/TeamAgreements/)
+
 ### Seismica Journal _(2021- )_
 _Summary_<br>
 [Seismica](http://seismica.org/) is a new Diamond Open Access Journal launching in Spring 2022.
