@@ -173,6 +173,7 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Geoscience Information Society (GSIS), 2005-8, 2014-present
 
 ## Professional Development & Continuing Education
+- NASA TOPS (Transform to Open Science) Badge, May 2024 <br>
 - Scientific Community Engagement Fundamentals course (Center for Scientific Collaboration and Community Engagement), February-March 2021<br>
 - Carpentries Instructor Certification, Fall 2020<br>
 - Data Science Pedagogy and Practice Workshop, UC Berkeley Division of Data Science, June 3-5, 2019<br>
