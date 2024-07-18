@@ -108,6 +108,7 @@ _Links_<br>
 
 - Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. <br>
 - Teplitzky, Samantha. (2024, March 22). Research community outreach with the open science team agreement. Year of Open Science Culminating Conference. Virtual. [http://osf.io/3ycgf](http://osf.io/3ycgf)<br>
+- Dahdul, W., Deardorff, A., Otsuji, R., & Teplitzky, S. (2024, February 13). Cultivating Collaboration: Getting Started with Open Research. UC Love Data Week 2024 (Virtual). <br>
 - Teplitzky, Samantha, Convers, J., Funning, G., Hicks, S., Karasozen, E., & Rowe, C. (2023, December 11). Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal. AGU Fall Meeting 2023, San Francisco, CA. [https://doi.org/10.5281/zenodo.10383740](https://doi.org/10.5281/zenodo.10383740)<br>
 - Teplitzky, Samantha. (2023, December 10). Publishing open in the earth sciences: History, norms, new directions. Shaping the future with Researcher-run journals, San Francisco, CA.<br>
 - Teplitzky, S. (2023, September 19). Seismica: Open science and community building in a new diamond open access journal. Presented at Open Access Scholarly Publishing Association 2023 Conference (Virtual). [https://escholarship.org/uc/item/6cc6f8bx](https://escholarship.org/uc/item/6cc6f8bx)<br>
