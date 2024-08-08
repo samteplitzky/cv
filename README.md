@@ -106,7 +106,7 @@ _Links_<br>
 
 ## Presentations
 
-- Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. <br>
+- Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13260315.svg)](https://doi.org/10.5281/zenodo.13260315)<br>
 - Teplitzky, Samantha. (2024, March 22). Research community outreach with the open science team agreement. Year of Open Science Culminating Conference. Virtual. [http://osf.io/3ycgf](http://osf.io/3ycgf)<br>
 - Dahdul, W., Deardorff, A., Otsuji, R., & Teplitzky, S. (2024, February 13). Cultivating Collaboration: Getting Started with Open Research. UC Love Data Week 2024 (Virtual). <br>
 - Teplitzky, Samantha, Convers, J., Funning, G., Hicks, S., Karasozen, E., & Rowe, C. (2023, December 11). Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal. AGU Fall Meeting 2023, San Francisco, CA. [https://doi.org/10.5281/zenodo.10383740](https://doi.org/10.5281/zenodo.10383740)<br>
