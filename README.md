@@ -80,6 +80,7 @@ _Links_<br>
 ## Publications
 
 ### -- 2023
+- Teplitzky, S., Dahdul, W., Fairhurst, V., Kingsley, D., Scotti, K., Sutherland, H., & Whalen, S. (2024). Navigating the Complexities of Open Science: All Sticks, No Carrots. Force11 2024, UCLA. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13749374.svg)](https://doi.org/10.5281/zenodo.13749374)<br>
 - Teplitzky, S. (2023). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (p. 528). ACRL. [https://bit.ly/SCLAOK](https://bit.ly/SCLAOK)<br>
 - Mark, H., Ragon, T., Funning, G., Hicks, S., Rowe, C., Teplitzky, Samantha, Convers, J., Karasozen, E., Corona-Fernandez, R. D., & Fakereng, A. (2023). Editorial workflow of a community-led, all-volunteer scientific journal: Lessons from the launch of Seismica. Seismica. [https://doi.org/10.26443/seismica.v2i2.1091](https://doi.org/10.26443/seismica.v2i2.1091)<br>
 - Bennett, A., Garside, D., Gould van Praag, C., Hostler, T., Kherroubi Garcia, I., Plomp, E., Schettino, A., Teplitzky, S., & Ye, H. (2023). A manifesto for rewarding and recognising Team Infrastructure Roles. Journal of Trial and Error. [https://doi.org/10.36850/mr8](https://doi.org/10.36850/mr8) <br>
