@@ -7,6 +7,11 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 
 ## Recent Projects
 
+### Preserving Executable Research Content (PERC) - Force11 Working Group _(2025- )_
+_Summary_<br>
+Co-leading working group with Rowan Cockett (Curvenote) to create guidelines and frameworks ensuring long-term preservation of interactive and executable content in the scientific record.
+Details: [https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/](https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/)
+
 ### Open Science Team Agreements _(2022- )_
 _Summary_<br>
 The Open Science Team Agreement template grew out of collaborative work from the Bay Area Open Science Group. The template gives researchers and other stakeholders a practical tool to understand and advocate for open science practices at a broader scale within their laboratory, department, or community.<br/><br/>
@@ -17,7 +22,9 @@ _Links_<br>
 ### Seismica Journal _(2021- )_
 _Summary_<br>
 [Seismica](http://seismica.org/) is a new Diamond Open Access Journal launching in Spring 2022.
-- Founding Open Science Editor; responsible for promoting and adapting open science, data access and inclusive workflows. 
+- Founding Open Science Editor; responsible for promoting and adapting open science, data access and inclusive workflows.
+- Conducted first demographic survey of Seismica board members, editors, authors and reviewers (Winter 2024).
+- Shepherded application for Impact Factor (Fall 2024).
 
 ### Geoscience Open Educational Resources (OER) Study _(2020-2021)_
 _Summary_<br>
@@ -79,7 +86,10 @@ _Links_<br>
 
 ## Publications
 
-### -- 2023
+### Forthcoming
+- Teplitzky, Samantha. (2025). Seismica’s data and code policy in action. Seismica. 
+
+### -- 2024
 - Teplitzky, S., Dahdul, W., Fairhurst, V., Kingsley, D., Scotti, K., Sutherland, H., & Whalen, S. (2024). Navigating the Complexities of Open Science: All Sticks, No Carrots. Force11 2024, UCLA. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13749374.svg)](https://doi.org/10.5281/zenodo.13749374)<br>
 - Teplitzky, S. (2023). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (p. 528). ACRL. [https://bit.ly/SCLAOK](https://bit.ly/SCLAOK)<br>
 - Mark, H., Ragon, T., Funning, G., Hicks, S., Rowe, C., Teplitzky, Samantha, Convers, J., Karasozen, E., Corona-Fernandez, R. D., & Fakereng, A. (2023). Editorial workflow of a community-led, all-volunteer scientific journal: Lessons from the launch of Seismica. Seismica. [https://doi.org/10.26443/seismica.v2i2.1091](https://doi.org/10.26443/seismica.v2i2.1091)<br>
@@ -107,7 +117,7 @@ _Links_<br>
 
 ## Presentations
 
-- Teplitzky, Samantha. (2024, September 18). A panel on Diamond Open Access journals in the geosciences. AGU EPSP Connects monthly seminar series. <br>
+- Teplitzky, Samantha. (2024, September 18). A panel on Diamond Open Access journals in the geosciences. AGU EPSP Connects monthly seminar series. [https://www.youtube.com/live/htYkqvHkNVo](https://www.youtube.com/live/htYkqvHkNVo) <br>
 - Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13260315.svg)](https://doi.org/10.5281/zenodo.13260315)<br>
 - Teplitzky, Samantha. (2024, March 22). Research community outreach with the open science team agreement. Year of Open Science Culminating Conference. Virtual. [http://osf.io/3ycgf](http://osf.io/3ycgf)<br>
 - Dahdul, W., Deardorff, A., Otsuji, R., & Teplitzky, S. (2024, February 13). Cultivating Collaboration: Getting Started with Open Research. UC Love Data Week 2024 (Virtual). <br>
