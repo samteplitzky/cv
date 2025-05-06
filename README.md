@@ -86,10 +86,8 @@ _Links_<br>
 
 ## Publications
 
-### Forthcoming
-- Teplitzky, Samantha. (2025). Seismica’s data and code policy in action. Seismica. 
 
-### -- 2024
+- Teplitzky, Samantha. (2025). Seismica’s data and code policy in action. Seismica. [https://doi.org/10.26443/seismica.v4i1.1561](https://doi.org/10.26443/seismica.v4i1.1561)\<br>
 - Teplitzky, S., Dahdul, W., Fairhurst, V., Kingsley, D., Scotti, K., Sutherland, H., & Whalen, S. (2024). Navigating the Complexities of Open Science: All Sticks, No Carrots. Force11 2024, UCLA. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13749374.svg)](https://doi.org/10.5281/zenodo.13749374)<br>
 - Teplitzky, S. (2023). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (p. 528). ACRL. [https://bit.ly/SCLAOK](https://bit.ly/SCLAOK)<br>
 - Mark, H., Ragon, T., Funning, G., Hicks, S., Rowe, C., Teplitzky, Samantha, Convers, J., Karasozen, E., Corona-Fernandez, R. D., & Fakereng, A. (2023). Editorial workflow of a community-led, all-volunteer scientific journal: Lessons from the launch of Seismica. Seismica. [https://doi.org/10.26443/seismica.v2i2.1091](https://doi.org/10.26443/seismica.v2i2.1091)<br>
@@ -180,6 +178,7 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Association of Pacific Coast Geographers Women’s Network Travel Award, September 2000<br>
 
 ## Professional Organizations & Service
+- Steering Committee, Open Science Collaborative of Library and Information Professionals (OSCLIP), 2025 -
 - US Representative to SCOAP3 Governing Council, 2024-2026
 - EarthArXiV Advisory Council, 2023-present
 - Editor, Journal of Librarianship and Scholarly Communications, 2022-present
