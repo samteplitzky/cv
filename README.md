@@ -8,7 +8,7 @@ Interests: Open Science, Data, Reproducibility, Transparency in Research Workflo
 
 ## Recent Projects
 
-### Preserving Executable Research Content (PERC) - Force11 Working Group _(2025- )_
+### Preserving Interactive Research Content (PIRC) - Force11 Working Group _(2025- )_
 _Summary_<br>
 Co-leading working group with Rowan Cockett (Curvenote) to create guidelines and frameworks ensuring long-term preservation of interactive and executable content in the scientific record.
 Details: [https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/](https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/)
