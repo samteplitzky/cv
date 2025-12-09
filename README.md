@@ -116,7 +116,7 @@ _Links_<br>
 
 ## Presentations
 
-- Teplitzky, Samantha. (2025, November 4). Open Science in Practice: Software Sharing and Citation in Earth Science and Astronomy Journals. Library and Information Services in Astronomy (LISA) 2025, Santiago, Chile. 
+- Teplitzky, Samantha. (2025, November 4). Open Science in Practice: Software Sharing and Citation in Earth Science and Astronomy Journals. Library and Information Services in Astronomy (LISA) 2025, Santiago, Chile. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17749667.svg)](https://doi.org/10.5281/zenodo.17749667)
 - Teplitzky, Samantha. (2025, October 16). Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. Lightning talk at Cracking Open: Open Science Unconference, Carnegie Mellon University. [https://ucberk.li/pirc-gd](https://ucberk.li/pirc-gd) <br>
 - Teplitzky, Samantha. (2024, September 18). A panel on Diamond Open Access journals in the geosciences. AGU EPSP Connects monthly seminar series. [https://www.youtube.com/live/htYkqvHkNVo](https://www.youtube.com/live/htYkqvHkNVo) <br>
 - Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13260315.svg)](https://doi.org/10.5281/zenodo.13260315)<br>
