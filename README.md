@@ -86,8 +86,8 @@ _Links_<br>
 - **Junior Fellow** _(Summer 2003)_ <br>
 
 ## Publications
-
-
+- Pourret, O., Arnould, M., Duretz, T., Farquharson, J., Irawan, D., Lai, L., Lefebvre, A., Magee, C., Millet, M.-A., Teplitzky, Samantha, Thomas, C., Vaucher, R., Waszek, L., Wieczorek, M., & Wong Hearing, T. (2026). The Rise of Diamond Open Access Journals in Earth Sciences: Past Developments, Present Tensions, and Future Pathways. EartharXiv. [https://doi.org/0.31223/X56J5](https://doi.org/0.31223/X56J5)
+- Greenland, K., Teplitzky, S., Chen, E., & Deardorff, A. (2026). Bay Area Open Science Group 2025-26 Reflection. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21266669.svg)](https://doi.org/10.5281/zenodo.21266669)<br>
 - Teplitzky, Samantha. (2025). Seismica’s data and code policy in action. Seismica. [https://doi.org/10.26443/seismica.v4i1.1561](https://doi.org/10.26443/seismica.v4i1.1561)<br>
 - Teplitzky, S., Dahdul, W., Fairhurst, V., Kingsley, D., Scotti, K., Sutherland, H., & Whalen, S. (2024). Navigating the Complexities of Open Science: All Sticks, No Carrots. Force11 2024, UCLA. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13749374.svg)](https://doi.org/10.5281/zenodo.13749374)<br>
 - Teplitzky, S. (2023). Generation open. In M. Bonn, J. Bolick, & W. Cross (Eds.), Scholarly communication librarianship and open knowledge (p. 528). ACRL. [https://bit.ly/SCLAOK](https://bit.ly/SCLAOK)<br>
