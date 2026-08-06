@@ -15,11 +15,11 @@ Founding steering committee member of new professional group for librarians invo
 - Convener for Community Calls (_Fall 2026-_)
 
 ### Bay Area Open Science Group _(2022- )_
-## Community Meetings
+#### Community Meetings
 - Organize monthly events featuring local open science practitioners with UCSF and Stanford colleagues
 - Manage website: [https://bayareaopensciencegroup.github.io/](https://bayareaopensciencegroup.github.io/)
 
-## Open Science Team Agreement
+#### Open Science Team Agreement
 _Summary_<br>
 The Open Science Team Agreement template grew out of collaborative work from the Bay Area Open Science Group. The template gives researchers and other stakeholders a practical tool to understand and advocate for open science practices at a broader scale within their laboratory, department, or community.<br/><br/>
 _Links_<br>
